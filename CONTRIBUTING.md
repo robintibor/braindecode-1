@@ -106,6 +106,13 @@ There are now tags showing basic/intermediate/advanced tasks, also a tag for the
 https://github.com/braindecode/braindecode/issues?q=is%3Aissue+is%3Aopen+label%3Asprint.
 Make sure to comment that you try to work on that issue so that other people know about it and also assign it to yourself (right side on the issue page).
 
+        
+### Activate Conda Braindecode Environment
+Don't forget to activate your conda environment that you installed braindecode in!
+```
+conda activate braindecode
+``` 
+        
 ### Create a local branch for your contribution
 To ensure you are up to date with the upstream master, in your local repository,
 run:
